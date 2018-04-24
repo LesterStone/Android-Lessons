@@ -72,3 +72,15 @@ P0281_IntentExtras/.idea/caches/build_file_checksums.ser
 *.gradle
 *.properties
 *.bat
+P0301_ActivityResult/app/src/main/res/drawable-v24/ic_launcher_foreground.xml
+P0301_ActivityResult/app/src/main/res/drawable/ic_launcher_background.xml
+P0301_ActivityResult/app/src/main/res/mipmap-hdpi/ic_launcher.png
+*.png
+P0301_ActivityResult/app/src/main/res/values/colors.xml
+P0301_ActivityResult/app/src/main/res/values/strings.xml
+P0301_ActivityResult/app/src/main/res/values/styles.xml
+P0301_ActivityResult/app/src/test/java/io/vladmad/p0301_activityresult/ExampleUnitTest.java
+P0301_ActivityResult/gradle/wrapper/gradle-wrapper.jar
+P0301_ActivityResult/gradlew
+P0301_ActivityResult/app/src/androidTest/java/io/vladmad/p0301_activityresult/ExampleInstrumentedTest.java
+P0301_ActivityResult/app/proguard-rules.pro
