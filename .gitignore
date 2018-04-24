@@ -108,3 +108,12 @@ P0321_SimpleBrowser/gradle/wrapper/gradle-wrapper.jar
 P0321_SimpleBrowser/gradlew
 P0321_SimpleBrowser/app/src/androidTest/java/io/vladmad/p0321_simplebrowser/ExampleInstrumentedTest.java
 P0321_SimpleBrowser/app/proguard-rules.pro
+P0331_SharedPreferences/app/proguard-rules.pro
+P0331_SharedPreferences/app/src/androidTest/java/io/vladmad/p0331_sharedpreferences/ExampleInstrumentedTest.java
+P0331_SharedPreferences/app/src/main/res/drawable-v24/ic_launcher_foreground.xml
+P0331_SharedPreferences/app/src/main/res/drawable/ic_launcher_background.xml
+P0331_SharedPreferences/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml
+P0331_SharedPreferences/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml
+P0331_SharedPreferences/app/src/test/java/io/vladmad/p0331_sharedpreferences/ExampleUnitTest.java
+P0331_SharedPreferences/gradle/wrapper/gradle-wrapper.jar
+P0331_SharedPreferences/gradlew
