@@ -140,3 +140,12 @@ P0361_SQLiteQuery/gradlew
 P0361_SQLiteQuery/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml
 P0361_SQLiteQuery/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml
 P0361_SQLiteQuery/app/src/main/res/drawable/ic_launcher_background.xml
+P0401_LayoutInflater/app/proguard-rules.pro
+P0401_LayoutInflater/app/src/androidTest/java/io/vladmad/p0401_layoutinflater/ExampleInstrumentedTest.java
+P0401_LayoutInflater/app/src/main/res/drawable-v24/ic_launcher_foreground.xml
+P0401_LayoutInflater/app/src/main/res/drawable/ic_launcher_background.xml
+P0401_LayoutInflater/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml
+P0401_LayoutInflater/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml
+P0401_LayoutInflater/app/src/test/java/io/vladmad/p0401_layoutinflater/ExampleUnitTest.java
+P0401_LayoutInflater/gradle/wrapper/gradle-wrapper.jar
+P0401_LayoutInflater/gradlew

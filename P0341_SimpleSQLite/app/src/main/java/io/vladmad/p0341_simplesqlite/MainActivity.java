@@ -45,6 +45,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         btnDel.setOnClickListener(this);
 
         dbHelper = new DBHelper(this);
+
     }
 
     @Override
@@ -56,10 +57,12 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
         SQLiteDatabase database = dbHelper.getWritableDatabase();
 
+        //класс, который может обрабатывать какие-либо значения
         ContentValues contentValues = new ContentValues();
 
         switch (v.getId()) {
             case R.id.btn_Add:
+                //в контент вал по ключу DBHelper помещаем данные(имя, емэйл)
                 contentValues.put(DBHelper.KEY_NAME, name);
                 contentValues.put(DBHelper.KEY_MAIL, email);
 
