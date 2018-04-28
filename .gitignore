@@ -131,3 +131,12 @@ P0341_SimpleSQLite/app/proguard-rules.pro
 P0341_SimpleSQLite/app/src/androidTest/java/io/vladmad/p0341_simplesqlite/ExampleInstrumentedTest.java
 P0341_SimpleSQLite/app/src/main/res/drawable-v24/ic_launcher_foreground.xml
 P0341_SimpleSQLite/app/proguard-rules.pro
+P0361_SQLiteQuery/app/proguard-rules.pro
+P0361_SQLiteQuery/app/src/androidTest/java/io/vladmad/p0361_sqlitequery/ExampleInstrumentedTest.java
+P0361_SQLiteQuery/app/src/main/res/drawable-v24/ic_launcher_foreground.xml
+P0361_SQLiteQuery/app/src/test/java/io/vladmad/p0361_sqlitequery/ExampleUnitTest.java
+P0361_SQLiteQuery/gradle/wrapper/gradle-wrapper.jar
+P0361_SQLiteQuery/gradlew
+P0361_SQLiteQuery/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml
+P0361_SQLiteQuery/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml
+P0361_SQLiteQuery/app/src/main/res/drawable/ic_launcher_background.xml
